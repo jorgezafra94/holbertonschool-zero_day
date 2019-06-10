@@ -1,1 +1,1 @@
-**with the command uname it appears Linux in my ssh**
+*with the uname command i get Linux in my ssh*
