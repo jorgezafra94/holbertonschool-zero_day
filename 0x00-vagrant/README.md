@@ -1,1 +1,0 @@
-**with the command uname it appears Linux in my ssh**
